@@ -1,0 +1,19 @@
+{
+  "name": "hiteshsircode",
+  "version": "1.0.0",
+  "description": "hitesr sir backend class",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "amar",
+    "hitesh"
+  ],
+  "author": "amar sing",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
